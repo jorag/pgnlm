@@ -13,6 +13,7 @@ cfitsio=3.470=hb418390_7
 curl=7.75.0=h979ede3_0
 cycler=0.10.0=py_2
 dbus=1.13.6=hfdff14a_1
+dill=0.3.3=pyhd8ed1ab_0
 expat=2.2.10=h9c3ff4c_0
 fontconfig=2.13.1=hba837de_1004
 freetype=2.10.4=h0708190_1
@@ -73,6 +74,7 @@ libxml2=2.9.10=h72842e0_3
 lz4-c=1.9.3=h9c3ff4c_0
 matplotlib=3.3.4=py38h578d9bd_0
 matplotlib-base=3.3.4=py38h0efea84_0
+multiprocess=0.70.11.1=py38h497a2fe_1
 mysql-common=8.0.23=ha770c72_1
 mysql-libs=8.0.23=h935591d_1
 ncurses=6.2=h58526e2_4

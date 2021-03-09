@@ -1,0 +1,17 @@
+# Based on https://www.gitignore.io/api/python and https://realpython.com/python-git-github-intro/#gitignore
+
+
+# My .gitignore list
+output/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Unit test / coverage reports
+.pytest_cache
+.coverage
+
+# Environments
+venv
+env
